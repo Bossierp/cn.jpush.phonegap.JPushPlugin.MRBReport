@@ -19,7 +19,7 @@ import org.json.JSONException;
 import org.json.JSONObject;
 import java.util.Map.Entry;
 
-import com.mrboss.customerorder.R;
+import com.mrboss.posreporten.R;
 
 import cn.jpush.android.api.BasicPushNotificationBuilder;
 import cn.jpush.android.api.CustomPushNotificationBuilder;
